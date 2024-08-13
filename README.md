@@ -1,4 +1,4 @@
-# squardfree
+# Squardfree
 
 ## Project Overview
 
